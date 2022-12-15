@@ -26,9 +26,11 @@ Podczas wyścigu, powinniśmy omijać przeszkody które losowo pojawiać się b�
 Do elementów przeszkód zaliczać się będą „złowrogie” **sfery**, oraz **trójkąty** – po kontakcie z graczem gra będzie przerywana a licznik zdobytych dotychczas punktów wyzerowany.
 
 **Przeszkody**
+
 Do elementów przeszkód zaliczać się będą „złowrogie” sfery, oraz trójkąty – po kontakcie z graczem gra będzie przerywana a licznik zdobytych dotychczas punktów wyzerowany.
 
 **Premia**
+
 Do elementów premiowanych punktów zaliczać się będą odpowiednio oznakowane mniejsze „Cuby”, które będą zwiększały nasz pasek osiągnięć punktów.
 
 Gra będzie bazowała na pomyślę „end-less runerów” [przykład: **Bieg przez Płotki**], a jedyną decyzją jaką podejmuję w niej gracz będzie wykonywanie w odpowiednim momencie skoku w celu ominięcia przeszkód lub zebraniu punktów premiowanych.
