@@ -21,13 +21,13 @@ Genshin Impact jest fabularną grą akcji z otwartym światem. Rozgrywka wieloos
 + Others
 
 ## Cube Race
-                                                                                            
+```sh
    _|_|_|   _|    _|   _|_|_|     _|_|_|_|       _|_|_|       _|_|       _|_|_|   _|_|_|_|  
  _|         _|    _|   _|    _|   _|             _|    _|   _|    _|   _|         _|        
  _|         _|    _|   _|_|_|     _|_|_|         _|_|_|     _|_|_|_|   _|         _|_|_|    
  _|         _|    _|   _|    _|   _|             _|    _|   _|    _|   _|         _|        
    _|_|_|     _|_|     _|_|_|     _|_|_|_|       _|    _|   _|    _|     _|_|_|   _|_|_|_|  
-                                                                                            
+```                                         
                                                                                             
 Pomysł na grę której celem jest uzyskanie największej możliwej ilości punktów podczas „wyścigu” kontrolowanej przez nas kostki.
 Podczas wyścigu, powinniśmy omijać przeszkody które losowo pojawiać się będą na trasie – a w celu zwiększenia ilości otrzymywanych punktów zbierać odpowiednio oznaczone punkty premiowane.
