@@ -41,10 +41,10 @@ Do elementów przeszkód zaliczać się będą „złowrogie” **sfery**, oraz 
 **Przeszkody**
 > Do elementów przeszkód zaliczać się będą „złowrogie” sfery, oraz trójkąty – po kontakcie z graczem gra będzie przerywana a licznik zdobytych dotychczas punktów wyzerowany.
 
-**--- Premia ---**
+**Premia**
 > Do elementów premiowanych punktów zaliczać się będą odpowiednio oznakowane mniejsze „Cuby”, które będą zwiększały nasz pasek osiągnięć punktów.
 
-2022
+- 2022
 
 
   
