@@ -22,7 +22,7 @@ Genshin Impact jest fabularną grą akcji z otwartym światem. Rozgrywka wieloos
 + [Mobile Legends](https://apps.apple.com/pl/app/league-of-legends-wild-rift/id1480616990?l=pl) (multiplayer online battle arena)
 + Others
 
-## Cube Race
+## Mobile Snake
 ```sh
    d888888o.   b.             8          .8.          8 8888     ,88' 8 8888888888   
  .`8888:' `88. 888o.          8         .888.         8 8888    ,88'  8 8888         
