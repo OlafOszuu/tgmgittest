@@ -24,25 +24,24 @@ Genshin Impact jest fabularną grą akcji z otwartym światem. Rozgrywka wieloos
 
 ## Cube Race
 ```sh
-   _|_|_|   _|    _|   _|_|_|     _|_|_|_|       _|_|_|       _|_|       _|_|_|   _|_|_|_|  
- _|         _|    _|   _|    _|   _|             _|    _|   _|    _|   _|         _|        
- _|         _|    _|   _|_|_|     _|_|_|         _|_|_|     _|_|_|_|   _|         _|_|_|    
- _|         _|    _|   _|    _|   _|             _|    _|   _|    _|   _|         _|        
-   _|_|_|     _|_|     _|_|_|     _|_|_|_|       _|    _|   _|    _|     _|_|_|   _|_|_|_|  
+   d888888o.   b.             8          .8.          8 8888     ,88' 8 8888888888   
+ .`8888:' `88. 888o.          8         .888.         8 8888    ,88'  8 8888         
+ 8.`8888.   Y8 Y88888o.       8        :88888.        8 8888   ,88'   8 8888         
+ `8.`8888.     .`Y888888o.    8       . `88888.       8 8888  ,88'    8 8888         
+  `8.`8888.    8o. `Y888888o. 8      .8. `88888.      8 8888 ,88'     8 888888888888 
+   `8.`8888.   8`Y8o. `Y88888o8     .8`8. `88888.     8 8888 88'      8 8888         
+    `8.`8888.  8   `Y8o. `Y8888    .8' `8. `88888.    8 888888<       8 8888         
+8b   `8.`8888. 8      `Y8o. `Y8   .8'   `8. `88888.   8 8888 `Y8.     8 8888         
+`8b.  ;8.`8888 8         `Y8o.`  .888888888. `88888.  8 8888   `Y8.   8 8888         
+ `Y8888P ,88P' 8            `Yo .8'       `8. `88888. 8 8888     `Y8. 8 888888888888 
 ```                                         
                                                                                             
-Gra której celem jest uzyskanie największej możliwej ilości punktów podczas „wyścigu” kontrolowanej przez nas kostki.
+Gra której celem jest uzyskanie największej możliwej ilości punktów podczas „sesji” kontrolowanego przez nas węża.
 
->Podczas wyścigu, powinniśmy omijać przeszkody które losowo pojawiać się będą na trasie – a w celu zwiększenia ilości otrzymywanych punktów zbierać odpowiednio oznaczone punkty premiowane.
-Do elementów przeszkód zaliczać się będą „złowrogie” **sfery**, oraz **trójkąty** – po kontakcie z graczem gra będzie przerywana a licznik zdobytych dotychczas punktów wyzerowany.
+>Wąż to gra, w której musisz kontrolować węża poziomo i pionowo w określonym obszarze. 
+Jedzenie, które je, sprawia, że wąż rośnie, a ty dostajesz więcej punktów. Wyzwaniem jest uniknięcie kolizji z własnym ogonem i wszelkimi ścianami lub przeszkodami. 
+Gdy wąż rośnie, coraz trudniej jest manewrować nim wokół siebie i przeszkód, a ostatecznie staje się to niemożliwe. Ten, kto zrobi to najdłużej, wygrywa.
 
->Gra będzie bazowała na pomyślę „end-less runerów” [przykład: **Bieg przez Płotki**], a jedyną decyzją jaką podejmuję w niej gracz będzie wykonywanie w odpowiednim momencie skoku w celu ominięcia przeszkód lub zebraniu punktów premiowanych.
-
-**Przeszkody**
-> Do elementów przeszkód zaliczać się będą „złowrogie” sfery, oraz trójkąty – po kontakcie z graczem gra będzie przerywana a licznik zdobytych dotychczas punktów wyzerowany.
-
-**Premia**
-> Do elementów premiowanych punktów zaliczać się będą odpowiednio oznakowane mniejsze „Cuby”, które będą zwiększały nasz pasek osiągnięć punktów.
 
 - 2022
 
