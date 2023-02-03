@@ -43,7 +43,8 @@ Jedzenie, które je, sprawia, że wąż rośnie, a ty dostajesz więcej punktów
 Gdy wąż rośnie, coraz trudniej jest manewrować nim wokół siebie i przeszkód, a ostatecznie staje się to niemożliwe. Ten, kto zrobi to najdłużej, wygrywa.
 
 
-- 2022
+- https://www.youtube.com/watch?v=lSd7IvXyqDk
+- https://www.youtube.com/watch?v=foVefYHUMC4
 
 
   
